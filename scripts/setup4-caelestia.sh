@@ -16,7 +16,7 @@ header "Setup 4 – Caelestia"
 # Git-versjoner fra AUR (viktig!)
 yay -S --needed --noconfirm \
     quickshell-git \
-    caelestia-shell-git \
+    caelestia-shell \
     caelestia-cli-git
 
 log "Caelestia AUR pakker installert"
